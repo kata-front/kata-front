@@ -13,11 +13,6 @@
   <div>
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git,vite&perline=5" alt="Tech Stack" />
   </div>
-  
-  <div style="margin-top: 30px;">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kata-front&theme=radical&show_icons=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kata-front&theme=radical&layout=compact" />
-  </div>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kata-front&color=blueviolet&style=flat" alt="Profile Views" />
