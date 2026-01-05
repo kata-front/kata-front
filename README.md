@@ -14,9 +14,9 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git,vite&perline=5" alt="Tech Stack" />
   </div>
   
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 30px;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kata-js&show_icons=true&theme=swift&hide_border=true&count_private=true&bg_color=00000000&hide_rank=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kata-js&layout=compact&theme=swift&hide_border=true&bg_color=00000000&langs_count=6" />
+  <div style="margin-top: 30px;">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kata-front&theme=radical&show_icons=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kata-front&theme=radical&layout=compact" />
   </div>
 
   <p align="center">
