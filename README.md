@@ -11,12 +11,8 @@
   <h3>🛠 Tech Stack</h3>
   
   <div>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git,vite&perline=5" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git&perline=5" alt="Tech Stack" />
   </div>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=kata-front&color=blueviolet&style=flat" alt="Profile Views" />
-  </p>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
   
