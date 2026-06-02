@@ -11,7 +11,7 @@
   <h3>🛠 Tech Stack</h3>
   
   <div>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git&perline=5" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,git,three&perline=5" alt="Tech Stack" />
   </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
