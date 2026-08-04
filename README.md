@@ -8,7 +8,7 @@
   <h3>🛠 Tech Stack</h3>
 
   <h4>💻 Fullstack Development</h4>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,git,threejs,gsap,vite,sass,redux,nestjs,prisma&perline=6" alt="Fullstack Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts,react,nextjs,git,threejs,gsap,vite,sass,redux,nestjs,prisma,mysql&perline=6" alt="Fullstack Stack" />
 
   <br/><br/>
   <h4>🤖 Machine Learning <span style="font-size:0.8em; color: #888;"></span></h4>
