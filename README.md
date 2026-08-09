@@ -12,7 +12,7 @@
 
   <br/><br/>
   <h4>🤖 Machine Learning <span style="font-size:0.8em; color: #888;"></span></h4>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,scikitlearn,tensorflow,numpy&perline=5" alt="ML Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,pandas,scikitlearn,pytorch,numpy&perline=5" alt="ML Stack" />
 
   <br/><br/>
 
